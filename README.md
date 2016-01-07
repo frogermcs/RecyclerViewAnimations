@@ -15,3 +15,7 @@ Project features:
 ## Video from working app
 
 [![RecyclerView animations](http://img.youtube.com/vi/HMd_aaFBM20/0.jpg)](https://www.youtube.com/watch?v=HMd_aaFBM20)
+
+---
+
+Do you want more about RecyclerView animations? Check my blog post about implementing them in InstaMaterial project: http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/
