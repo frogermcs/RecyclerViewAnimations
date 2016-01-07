@@ -18,4 +18,4 @@ Project features:
 
 ---
 
-Do you want more about RecyclerView animations? Check my blog post about implementing them in InstaMaterial project: http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/
+Want more about RecyclerView animations? Check my blog post about implementing them in InstaMaterial project: http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/
